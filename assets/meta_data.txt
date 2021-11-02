@@ -1,0 +1,19 @@
+proc_dashboard_data/satellite_map/
+----------------------------------------------
+date: date of observation (Unit: year-month-day)
+lat: date of observation (Unit: degree latitude)
+lon: date of observation (Unit: degree longitude)
+Chlorophyll: proportional to NIR/Red from Sentinel (Unit: nanometers -- nm)
+
+
+
+
+proc_dashboard_data/weather_tab/
+----------------------------------------------
+date: date of observation (Unit: year-month-day)
+lat: date of observation (Unit: degree latitude)
+lon: date of observation (Unit: degree longitude)
+Precip_mean: mean of average gprecipitation grids (Unit: millimeters -- mL)
+Air_Temp_mean: mean of average air temperature grids (Unit: Celsius -- C)
+Precip_cumsum: cumulative sum of average precipitation observed (Unit: millimeters -- mL)
+Air_Temp_cumsum: cumulative sum of average air temperature (Unit: Celsius -- C)
